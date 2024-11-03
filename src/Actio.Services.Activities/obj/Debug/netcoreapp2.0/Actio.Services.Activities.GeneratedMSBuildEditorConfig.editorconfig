@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Actio.Services.Activities
+build_property.ProjectDir = C:\C#Project\Asp.NetCore\Actio\src\Actio.Services.Activities\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
